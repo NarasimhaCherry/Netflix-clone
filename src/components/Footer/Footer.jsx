@@ -9,10 +9,10 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className="footer-icons">
-        <a href="https://github.com/NarasimhaCherry"><img src={Github} alt="Github-icon" /></a>
-        <a href="https://www.instagram.com/mr.___.cherry/"><img src={Instagram} alt="Instagram-icon" /></a>
-        <a href="https://twitter.com/UnstoppableChe1"><img src={Twitter} alt="Twitter-icon" /></a>
-        <a href="https://www.facebook.com/share/tNgaZC9rpzrCPNEB/?mibextid=qi2Omg"><img src={Facebook} alt="Facebook-icon" /></a>
+        <a href="https://github.com/NarasimhaCherry" target="_blank"><img src={Github} alt="Github-icon" /></a>
+        <a href="https://www.instagram.com/mr.___.cherry/" target="_blank"><img src={Instagram} alt="Instagram-icon" /></a>
+        <a href="https://twitter.com/UnstoppableChe1" target="_blank"><img src={Twitter} alt="Twitter-icon" /></a>
+        <a href="https://www.facebook.com/share/tNgaZC9rpzrCPNEB/?mibextid=qi2Omg" target="_blank"><img src={Facebook} alt="Facebook-icon" /></a>
       </div>
       <ul>
         <li>Audio Description</li>
